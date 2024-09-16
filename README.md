@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Hector, I am studying Digital and technology solutions at Queen Mary University of London. I am doing a degree apprenticeship on the data analyst pathway. 
 
 <!--
 **Hectormbz/Hectormbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
